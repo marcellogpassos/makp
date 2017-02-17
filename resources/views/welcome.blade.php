@@ -11,6 +11,7 @@
 
     <!-- CSS  -->
     <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
     <link href="{{ asset('lib/materialize/css/materialize.min.css') }}" type="text/css" rel="stylesheet"
           media="screen,projection"/>
     <link href="{{ asset('lib/normalize/normalize.min.css') }}" type="text/css" rel="stylesheet"

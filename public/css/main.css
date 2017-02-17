@@ -5,3 +5,19 @@
 .icon-block .material-icons {
     font-size: inherit;
 }
+
+h1, h2, h3, h4, h5, h6,
+nav .brand-logo,
+nav ul li a {
+    font-family: 'Cinzel', serif;
+}
+
+nav {
+    background-color: #eeeeee;
+}
+
+nav .brand-logo,
+nav ul li a,
+nav .button-collapse i {
+    color: #212121;
+}
